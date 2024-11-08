@@ -1,6 +1,6 @@
 
 
-# Geographic Insights Dashboard
+# Telangana Insights Dashboard
 
 ## Overview
 The **Geographic Insights Dashboard** provides a comprehensive analysis of key metrics across districts, including document registrations, revenue, investment, and employment numbers. This dashboard is designed to assist in identifying top-performing regions and trends in geographic data.
